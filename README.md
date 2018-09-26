@@ -1,1 +1,0 @@
-# aws3_iamuser
